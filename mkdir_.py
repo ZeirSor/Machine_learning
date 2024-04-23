@@ -4,8 +4,9 @@
 @Author  : ZeirSor
 @FileName: mkdir_.py
 @Software: PyCharm
-@Github    ：https://github.com/ZeirSor
+@Github  : https://github.com/ZeirSor
 @Description: 
+    Create subdirectories 'notebook', 'coding', 'datasets' for all folders in the current directory
 """
 import os.path
 
